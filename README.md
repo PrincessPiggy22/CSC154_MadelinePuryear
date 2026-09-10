@@ -1,6 +1,4 @@
 # CSC154\_MadelinePuryear
 
-
-
-Hello Branch 2
-
+Welcome to Branch1
+Hello Branch 2!
